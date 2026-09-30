@@ -1,2 +1,2 @@
-# INERAQUA
-Сайт для INERAQUA
+# INTERAQUA
+Сайт для INTERAQUA
