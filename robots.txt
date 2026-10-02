@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrbalta-coder.github.io/INTERAQUA/sitemap.xml
